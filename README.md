@@ -1,7 +1,5 @@
 ### Hi there 👋
 
----
-
 I'm **Sudhanva**, an aspiring **app developer from India**.
 I enjoy designing and building **modern mobile apps with Flutter**, focusing on clean UI and smooth user experiences.
 
