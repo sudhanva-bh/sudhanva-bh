@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**sudhanva-bh/sudhanva-bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm **Sudhanva**, an aspiring **app developer from India**.
+I enjoy designing and building **modern mobile apps with Flutter**, focusing on clean UI and smooth user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of the projects on my GitHub start the same way:
+an idea pops into my head and I try to build it. My repositories are a mix of **apps, experiments, and learning projects** where I explore new tools and concepts.
+
+### Tech Stack
+
+**Languages:** Dart, Java, Python, C/C++
+**Tools & Frameworks:** Flutter, Git, Android Studio, VS Code
+
+### Currently Learning
+
+* Advanced Flutter development
+* Backend integration for mobile apps
+* Data Structures & Algorithms
+* Web Development
+* AI integration for Mobile Apps
+
+### What You'll Find Here
+
+* Flutter apps and UI experiments
+* Small utilities and side projects
+* Things I'm building while learning
+
+---
+
+⚡ *If I think of an idea, there's a good chance I'll turn it into an app.*
